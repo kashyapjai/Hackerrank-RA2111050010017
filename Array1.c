@@ -1,3 +1,5 @@
+// REVRESE ARRAY HACKER RANK
+
 #include <stdio.h>
 #include <stdlib.h>
 
